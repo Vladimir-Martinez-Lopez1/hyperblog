@@ -1,7 +1,7 @@
 # hyperblog <3
 Un blog increible elaborado gracias a los cursos de [Platzi](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/"Platzi")
 
-##Este curso maneja:
+""Este curso maneja:""
 
 ------------
 
