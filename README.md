@@ -15,6 +15,8 @@ Este curso maneja:
 
 *Practicas guiadas
 
+*Incluye ejemplos en Windows, Linux y Mac
+
 Y bueno, como amable recordatorio, SI **Este readme.md es un chiste XD**
 
 
