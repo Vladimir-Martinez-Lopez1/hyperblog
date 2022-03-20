@@ -15,6 +15,13 @@ Este curso maneja:
 
 *Practicas guiadas
 
+<<<<<<< HEAD
+=======
+*Incluye ejemplos en Windows, Linux y Mac
+
+*Disponible para toddas las edades
+
+>>>>>>> readme-mejorado
 Y bueno, como amable recordatorio, SI **Este readme.md es un chiste XD**
 
 
